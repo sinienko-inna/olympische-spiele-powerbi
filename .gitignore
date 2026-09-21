@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Power BI / Office
+~$*
+*.tmp
+*.pbix.bak
+
+# Nicht ins Portfolio
+*.mp4
+*.docx
+# pgAdmin-Passwort-Screenshot aus den Kursnotizen
+Screenshot_1.png
